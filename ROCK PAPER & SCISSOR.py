@@ -76,4 +76,5 @@ while True:
     Losses = a
     Ties = t
 
-print('\n\nGame exit.')
+print('\n\nGame exit')
+print('\n\nGood bye :)')
